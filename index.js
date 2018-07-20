@@ -1,7 +1,7 @@
 // write your code below!
 
 var name = "DIA"
-var height = "59nodejs index.js"
+var height = "59"
 
 console.log("Name:")
 console.log(name)
